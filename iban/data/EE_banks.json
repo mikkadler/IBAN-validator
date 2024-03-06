@@ -1,0 +1,46 @@
+[
+    {
+      "bank_name": "Coop Pank aktsiaselts",
+      "identity_code": "42"
+    },
+    {
+      "bank_name": "Luminor Bank AS",
+      "identity_code": "96"
+    },
+    {
+      "bank_name": "Luminor Bank AS",
+      "identity_code": "17"
+    },
+    {
+      "bank_name": "AS LHV Pank",
+      "identity_code": "77"
+    },
+    {
+      "bank_name": "AS SEB Pank",
+      "identity_code": "10"
+    },
+    {
+      "bank_name": "Bigbank AS",
+      "identity_code": "75"
+    },
+    {
+      "bank_name": "Eesti Pank",
+      "identity_code": "16"
+    },
+    {
+      "bank_name": "Swedbank AS",
+      "identity_code": "22"
+    },
+    {
+      "bank_name": "AS TBB pank",
+      "identity_code": "00"
+    },
+    {
+      "bank_name": "AS Citadele banka Eesti filiaal",
+      "identity_code": "12"
+    },
+    {
+      "bank_name": "OP Corporate Bank plc Eesti filiaal",
+      "identity_code": "51"
+    }
+]

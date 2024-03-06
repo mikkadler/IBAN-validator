@@ -1,0 +1,306 @@
+[
+    {
+        "bank_name": "AB Lietuvos pastas",
+        "identity_code": "30300"
+    },
+    {
+        "bank_name": "Luminor Bank AS",
+        "identity_code": "40100"
+    },
+    {
+        "bank_name": "Bigbank AS",
+        "identity_code": "20900"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "70500"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71800"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71802"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71803"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71804"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71805"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71806"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71807"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71808"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71809"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71810"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71811"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71812"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71813"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71814"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71815"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71816"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71817"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71818"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71819"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71820"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71821"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71822"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71823"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71824"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71825"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71826"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71827"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71828"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71829"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71830"
+    },
+    {
+        "bank_name": "AB Siauliu bankas",
+        "identity_code": "71899"
+    },
+    {
+        "bank_name": "AB SEB bankas",
+        "identity_code": "70440"
+    },
+    {
+        "bank_name": "Cauri LTD",
+        "identity_code": "39800"
+    },
+    {
+        "bank_name": "Clear Junction Ltd",
+        "identity_code": "39500"
+    },
+    {
+        "bank_name": "UAB \"ConnectPay\"",
+        "identity_code": "37400"
+    },
+    {
+        "bank_name": "Credit union „Saulegraza“",
+        "identity_code": "51700"
+    },
+    {
+        "bank_name": "Nasdaq CSD SE Lithuania branch",
+        "identity_code": "90577"
+    },
+    {
+        "bank_name": "UAB \"DSBC Financial Europe\"",
+        "identity_code": "32700"
+    },
+    {
+        "bank_name": "UAB Elektroniniu mokejimu agentura",
+        "identity_code": "37000"
+    },
+    {
+        "bank_name": "Earthport Payment Services UAB",
+        "identity_code": "32800"
+    },
+    {
+        "bank_name": "European Merchant Bank",
+        "identity_code": "71100"
+    },
+    {
+        "bank_name": "\"Paysera LT\", UAB",
+        "identity_code": "35000"
+    },
+    {
+        "bank_name": "Galperin, UAB",
+        "identity_code": "38500"
+    },
+    {
+        "bank_name": "UAB „Glocash Payment“",
+        "identity_code": "37200"
+    },
+    {
+        "bank_name": "GlobalNetint, UAB",
+        "identity_code": "38800"
+    },
+    {
+        "bank_name": "\"Swedbank\", AB",
+        "identity_code": "73000"
+    },
+    {
+        "bank_name": "Svenska Handelsbanken AB Lithuania branch",
+        "identity_code": "21200"
+    },
+    {
+        "bank_name": "UAB \"IBS Lithuania \"",
+        "identity_code": "39100"
+    },
+    {
+        "bank_name": "AB \"Citadele\" bankas",
+        "identity_code": "72900"
+    },
+    {
+        "bank_name": "UAB International Fintech",
+        "identity_code": "36400"
+    },
+    {
+        "bank_name": "Jungtine centrine kredito unija",
+        "identity_code": "50200"
+    },
+    {
+        "bank_name": "Akademine credit union",
+        "identity_code": "50109"
+    },
+    {
+        "bank_name": "Credit union \"Kupiskenu taupa\"",
+        "identity_code": "51600"
+    },
+    {
+        "bank_name": "AS LHV Pank",
+        "identity_code": "40101"
+    },
+    {
+        "bank_name": "Mistertango Bank, UAB",
+        "identity_code": "38800"
+    },
+    {
+        "bank_name": "UAB \"Mediapark\"",
+        "identity_code": "36600"
+    },
+    {
+        "bank_name": "UAB \"Neopay\"",
+        "identity_code": "36800"
+    },
+    {
+        "bank_name": "UAB \"Paystra\"",
+        "identity_code": "37600"
+    },
+    {
+        "bank_name": "Payments International",
+        "identity_code": "39300"
+    },
+    {
+        "bank_name": "Lietuvos kredito unija",
+        "identity_code": "51700"
+    },
+    {
+        "bank_name": "UAB \"Finansu bite verslui\"",
+        "identity_code": "38800"
+    },
+    {
+        "bank_name": "UAB „WoraPay“",
+        "identity_code": "38400"
+    },
+    {
+        "bank_name": "UAB \"XM Lithuania\"",
+        "identity_code": "38200"
+    },
+    {
+        "bank_name": "MisterTango UAB",
+        "identity_code": "38800"
+    },
+    {
+        "bank_name": "UAB \"EMI Finance\"",
+        "identity_code": "33100"
+    },
+    {
+        "bank_name": "UAB \"Qube\"",
+        "identity_code": "37700"
+    },
+    {
+        "bank_name": "Revolut Lithuania UAB",
+        "identity_code": "38700"
+    },
+    {
+        "bank_name": "Baltic International Bank",
+        "identity_code": "50100"
+    },
+    {
+        "bank_name": "UAB „UPOS Payment Solutions\"",
+        "identity_code": "36000"
+    },
+    {
+        "bank_name": "UAB \"VIENPINIGIAI\"",
+        "identity_code": "38700"
+    },
+    {
+        "bank_name": "Paysera LT",
+        "identity_code": "35000"
+    },
+    {
+        "bank_name": "Verslui skolinu asociacija",
+        "identity_code": "72900"
+    }
+]

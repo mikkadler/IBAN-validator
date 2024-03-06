@@ -1,0 +1,392 @@
+[
+    {
+        "country_name": "Albania",
+        "country_code": "AL",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Andorra",
+        "country_code": "AD",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Austria",
+        "country_code": "AT",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Azerbaijan",
+        "country_code": "AZ",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Bahrain",
+        "country_code": "BH",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Belarus",
+        "country_code": "BY",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Belgium",
+        "country_code": "BE",
+        "iban_length": 16
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Bulgaria",
+        "country_code": "BG",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "iban_length": 21
+    },
+    {
+        "country_name": "Cyprus",
+        "country_code": "CY",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Czech Republic",
+        "country_code": "CZ",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Denmark",
+        "country_code": "DK",
+        "iban_length": 18
+    },
+    {
+        "country_name": "Dominican Republic",
+        "country_code": "DO",
+        "iban_length": 28
+    },
+    {
+        "country_name": "East Timor",
+        "country_code": "TL",
+        "iban_length": 23
+    },
+    {
+        "country_name": "Egypt",
+        "country_code": "EG",
+        "iban_length": 29
+    },
+    {
+        "country_name": "El Salvador",
+        "country_code": "SV",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Faroe Islands",
+        "country_code": "FO",
+        "iban_length": 18
+    },
+    {
+        "country_name": "Finland",
+        "country_code": "FI",
+        "iban_length": 18
+    },
+    {
+        "country_name": "France",
+        "country_code": "FR",
+        "iban_length": 27
+    },
+    {
+        "country_name": "Georgia",
+        "country_code": "GE",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Germany",
+        "country_code": "DE",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Gibraltar",
+        "country_code": "GI",
+        "iban_length": 23
+    },
+    {
+        "country_name": "Greece",
+        "country_code": "GR",
+        "iban_length": 27
+    },
+    {
+        "country_name": "Greenland",
+        "country_code": "GL",
+        "iban_length": 18
+    },
+    {
+        "country_name": "Guatemala",
+        "country_code": "GT",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Iceland",
+        "country_code": "IS",
+        "iban_length": 26
+    },
+    {
+        "country_name": "Iraq",
+        "country_code": "IQ",
+        "iban_length": 23
+    },  
+    {
+        "country_name": "Ireland",
+        "country_code": "IE",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Israel",
+        "country_code": "IL",
+        "iban_length": 23
+    },
+    {
+        "country_name": "Italy",
+        "country_code": "IT",
+        "iban_length": 27
+    },
+    {
+        "country_name": "Jordan",
+        "country_code": "JO",
+        "iban_length": 30
+    },
+    {
+        "country_name": "Kazakhstan",
+        "country_code": "KZ",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Kosovo",
+        "country_code": "XK",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Kuwait",
+        "country_code": "KW",
+        "iban_length": 30
+    },
+    {
+        "country_name": "Latvia",
+        "country_code": "LV",
+        "iban_length": 21
+    },
+    {
+        "country_name": "Lebanon",
+        "country_code": "LB",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Libya",
+        "country_code": "LY",
+        "iban_length": 25
+    },
+    {
+        "country_name": "Liechtenstein",
+        "country_code": "LI",
+        "iban_length": 21
+    },
+    {
+        "country_name": "Lithuania",
+        "country_code": "LT",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Luxembourg",
+        "country_code": "LU",
+        "iban_length": 20
+    },
+    {
+        "country_name": "Malta",
+        "country_code": "MT",
+        "iban_length": 31
+    },
+    {
+        "country_name": "Mauritania",
+        "country_code": "MR",
+        "iban_length": 27
+    },
+    {
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "iban_length": 30
+    },
+    {
+        "country_name": "Monaco",
+        "country_code": "MC",
+        "iban_length": 27
+    },
+    {
+        "country_name": "Moldova",
+        "country_code": "MD",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Montenegro",
+        "country_code": "ME",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Netherlands",
+        "country_code": "NL",
+        "iban_length": 18
+    },
+    {
+        "country_name": "North Macedonia",
+        "country_code": "MK",
+        "iban_length": 19
+    },
+    {
+        "country_name": "Norway",
+        "country_code": "NO",
+        "iban_length": 15
+    },
+    {
+        "country_name": "Pakistan",
+        "country_code": "PK",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Palestine",
+        "country_code": "PS",
+        "iban_length": 29
+    },
+    {
+        "country_name": "Poland",
+        "country_code": "PL",
+        "iban_length": 28
+    },
+    {
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "iban_length": 25
+    },
+    {
+        "country_name": "Qatar",
+        "country_code": "QA",
+        "iban_length": 29
+    },
+    {
+        "country_name": "Romania",
+        "country_code": "RO",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Russia",
+        "country_code": "RU",
+        "iban_length": 33
+    },
+    {
+        "country_name": "Saint Lucia",
+        "country_code": "LC",
+        "iban_length": 32
+    },
+    {
+        "country_name": "San Marino",
+        "country_code": "SM",
+        "iban_length": 27
+    },
+    {
+        "country_name": "São Tomé and Príncipe",
+        "country_code": "ST",
+        "iban_length": 25
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "country_code": "SA",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Serbia",
+        "country_code": "RS",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Seychelles",
+        "country_code": "SC",
+        "iban_length": 31
+    },
+    {
+        "country_name": "Slovakia",
+        "country_code": "SK",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Slovenia",
+        "country_code": "SI",
+        "iban_length": 19
+    },
+    {
+        "country_name": "Spain",
+        "country_code": "ES",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Sudan",
+        "country_code": "SD",
+        "iban_length": 18
+    },
+    {
+        "country_name": "Sweden",
+        "country_code": "SE",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Switzerland",
+        "country_code": "CH",
+        "iban_length": 21
+    },
+    {
+        "country_name": "Tunisia",
+        "country_code": "TN",
+        "iban_length": 24
+    },
+    {
+        "country_name": "Turkey",
+        "country_code": "TR",
+        "iban_length": 26
+    },
+    {
+        "country_name": "Ukraine",
+        "country_code": "UA",
+        "iban_length": 29
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "country_code": "AE",
+        "iban_length": 23
+    },
+    {
+        "country_name": "United Kingdom",
+        "country_code": "GB",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Vatican City",
+        "country_code": "VA",
+        "iban_length": 22
+    },
+    {
+        "country_name": "Virgin Islands, British",
+        "country_code": "VG",
+        "iban_length": 24
+    }
+]

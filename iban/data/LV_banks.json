@@ -1,0 +1,58 @@
+[
+    {
+        "bank_name": "BLUEORANGE BANK",
+        "identity_code": "CBBR"
+    },
+    {
+        "bank_name": "LUMINOR BANK AS",
+        "identity_code": "RIKO"
+    },
+    {
+        "bank_name": "SEB BANKA",
+        "identity_code": "UNLA"
+    },
+    {
+        "bank_name": "INDUSTRA BANK",
+        "identity_code": "MULT"
+    },
+    {
+        "bank_name": "SWEDBANK",
+        "identity_code": "HABA"
+    },
+    {
+        "bank_name": "SIGNET BANK AS",
+        "identity_code": "LLBB"
+    },
+    {
+        "bank_name": "CITADELE BANKA",
+        "identity_code": "PARX"
+    },
+    {
+        "bank_name": "REĢIONĀLĀ INVESTĪCIJU BANKA",
+        "identity_code": "RIBR"
+    },
+    {
+        "bank_name": "LATVIJAS BANKA",
+        "identity_code": "LACB"
+    },
+    {
+        "bank_name": "LPB BANK",
+        "identity_code": "LAPB"
+    },
+    {
+        "bank_name": "RIETUMU BANKA",
+        "identity_code": "RTMB"
+    },
+    {
+        "bank_name": "LATVIJAS PASTS",
+        "identity_code": "LPNS"
+    },
+    {
+        "bank_name": "THE TREASURY OF THE REPUBLIC OF LATVIA",
+        "identity_code": "TREL"
+    },
+    {
+        "bank_name": "OP CORPORATE BANK PLC FILIĀLE LATVIJĀ",
+        "identity_code": "OKOY"
+    }
+]
