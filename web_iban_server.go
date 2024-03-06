@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"os"
+	"path/filepath"
 	"web-iban/iban"
 )
 
@@ -14,7 +16,12 @@ func main() {
 	mux := http.NewServeMux()
 	mux.HandleFunc("/validateIBAN", corsMiddleware(ibanAPI))
 
-	err := iban.InitIbanData("./iban/data/")
+	dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
+	if err != nil {
+		fmt.Println("Error getting path:", err)
+	}
+
+	err = iban.InitIbanData(dir + "/iban/data/")
 	if err != nil {
 		fmt.Println("Error initializing iban data:", err)
 	}
@@ -78,7 +85,7 @@ func ibanAPI(w http.ResponseWriter, r *http.Request) {
 	for _, ibanString := range inputArray.Data {
 		valid, err := iban.ValidateIBAN(ibanString)
 		if err == nil {
-			err = fmt.Errorf("ok") //we want to forward error to user and since it is in struct it can not be nil
+			err = fmt.Errorf("ok") //we want to forward error to user and since I need its value it can not be nil
 		}
 		result := result{IBAN: ibanString, Valid: valid, Error: err.Error()}
 		bankName := iban.TryGetBankName(ibanString) // return name or "unknown"

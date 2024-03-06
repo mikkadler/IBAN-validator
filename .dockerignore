@@ -1,0 +1,6 @@
+/example_usage
+/js_code
+.gitignore
+.dockerignore
+.git
+*.dockerfile

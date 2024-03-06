@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  myapp:
+    build:
+      context: .
+      dockerfile: web_iban.dockerfile
+    ports:
+      - "8080:8080"

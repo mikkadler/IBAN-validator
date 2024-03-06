@@ -3,7 +3,7 @@ document.getElementById('submitButton').addEventListener('click', function() {
 
     const inputArray = inputText.split('\n').filter(line => line.trim() !== '');;
 
-    fetch('http://localhost:8080/validateIBAN', {
+    fetch('http://127.0.0.1:8080/validateIBAN', {
         method: 'POST',
         body: JSON.stringify({ data: inputArray }),
         headers: {

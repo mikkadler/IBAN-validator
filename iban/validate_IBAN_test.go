@@ -32,7 +32,7 @@ func TestValidateIBAN(t *testing.T) {
 			name:    "Invalid IBAN (checksum failure)",
 			args:    args{"GB29NWBK60161331926818"},
 			want:    false,
-			wantErr: false,
+			wantErr: true,
 		},
 		{
 			name:    "Invalid IBAN (length mismatch)",
@@ -53,7 +53,7 @@ func TestValidateIBAN(t *testing.T) {
 			wantErr: true,
 		},
 	}
-	err := iban.InitIbanData("./data/")
+	err := iban.InitIbanData("data/")
 	if err != nil {
 		fmt.Println(err)
 	}
